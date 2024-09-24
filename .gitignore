@@ -4,4 +4,4 @@
 
 #ignoring the .env file.
 
-.env/
+.env
