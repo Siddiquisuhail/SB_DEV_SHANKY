@@ -1,0 +1,7 @@
+#Ignoring the rudimentary folder.
+
+/rudimentary/
+
+#ignoring the .env file.
+
+.env/
