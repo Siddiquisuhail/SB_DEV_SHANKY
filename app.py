@@ -132,6 +132,9 @@ def handle_input():
 
     return redirect(url_for('dash_app_index'))
 
+#Testing the pull.
+
+
 @server.route('/dash/')
 def dash_app_index():
     return dash_app.index()
