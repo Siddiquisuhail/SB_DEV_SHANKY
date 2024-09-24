@@ -5,3 +5,8 @@
 #ignoring the .env file.
 
 .env
+
+
+#ignoring the env folder for python 
+
+/env/
